@@ -1,0 +1,12 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\Windows 10 Pro\Desktop\200 Days\Week - 1\Java-Interview-Ques-Ans\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+misc.xml
+modules.xml
+vcs.xml
+Java-Interview-Ques-Ans.iml
