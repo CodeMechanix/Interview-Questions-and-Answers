@@ -11,6 +11,8 @@ Also, is there a real syntactic difference between a bean and a regular class? I
 
 JavaBeans are Java classes which adhere to an extremely simple coding convention. All you have to do is to
 
-- Implement the java.io.Serializable interface - to save the state of an object
-- Use a public empty argument constructor - to instantiate the object
-- Provide public getter/setter methods - to get and set the values of private variables (properties).
+- The JavaBean class must implement either Serializable or Externalizable;
+- The JavaBean class must have a public no-arg constructor;
+- All JavaBean properties must have public setter and getter methods (as appropriate);
+- All JavaBean instance variables should be private.
+- Must have public class.
