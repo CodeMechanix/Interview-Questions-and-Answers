@@ -14,7 +14,8 @@ Most Popular Java Interview Questions and Answers
 6. [**What is Inversion of Control?**](https://github.com/CodeMechanix/Interview-Questions-and-Answers/blob/master/java/What_is_Inversion_of_Control.md)
 7. [**Cohesion and Decoupling, what do they represent?**](https://github.com/CodeMechanix/Interview-Questions-and-Answers/blob/master/java/Cohesion_and_Decoupling_what_do_they_represent.md)
 8. [**Difference between DTO, VO, POJO, JavaBeans?**](https://github.com/CodeMechanix/Interview-Questions-and-Answers/blob/master/java/DTO_VO_POJO_JavaBeans.md)
-
+Most Popular Java-OOP Interview Questions and Answers:
+1. [**Abstraction and Interface**]()
 Most Popular Spring Boot Interview Questions and Answers
 1. [**What is the difference between Spring MVC and Spring Boot**](https://github.com/CodeMechanix/Interview-Questions-and-Answers/blob/master/springboot/java/Difference_between_Spring_MVC_and_Spring_Boot.md)
 2. [**What is Dependency Injection and Inversion of Control in Spring Framework?**](https://github.com/CodeMechanix/Interview-Questions-and-Answers/blob/master/springboot/What_is_Dependency_Injection_and_Inversion_of_Control_in_Spring_Framework.md)
