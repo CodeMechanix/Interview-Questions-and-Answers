@@ -1,4 +1,4 @@
-# Java-Interview-Questions-and-Answers
+# Interview-Questions-and-Answers
 
 ### Filed Of Collection
 1. Java
@@ -15,5 +15,7 @@ Most Popular Spring Boot Interview Questions and Answers
 1. [**What is the difference between Spring MVC and Spring Boot**](https://github.com/CodeMechanix/Interview-Questions-and-Answers/blob/master/springboot/java/Difference_between_Spring_MVC_and_Spring_Boot.md)
 
 Most Popular Database Interview Questions and Answers
-1. [**Difference between a query, native query, named query and typed query?**]()
+1. [**Difference between a query, native query, named query and typed query?**](https://github.com/CodeMechanix/Interview-Questions-and-Answers/blob/master/database/Difference_between_query_and_native%20query_and_named_query_and_typed_query.md)
+
+Note: Collect those Question and Answer from StackOverflow. 
 
