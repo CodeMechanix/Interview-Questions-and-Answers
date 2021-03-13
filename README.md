@@ -18,7 +18,8 @@ Most Popular Spring Boot Interview Questions and Answers
 1. [**What is the difference between Spring MVC and Spring Boot**](https://github.com/CodeMechanix/Interview-Questions-and-Answers/blob/master/springboot/java/Difference_between_Spring_MVC_and_Spring_Boot.md)
 2. [**What is Dependency Injection and Inversion of Control in Spring Framework?**]()
 3. [**What is a Spring Bean?**]()
-4. [**What is AOP(Aspect-oriented programming), Dependency Injection and Inversion Of Control?**]()
+4. [**What is AOP(Aspect-oriented programming)?**]()
+5. [**Difference between Spring IOC and Spring AOP**]()
 
 
 Most Popular Database Interview Questions and Answers
