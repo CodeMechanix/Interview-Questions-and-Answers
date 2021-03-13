@@ -7,6 +7,7 @@ and
 
 Both are private and final, the difference is the static attribute.
 
+--------------------------------------
 ### Answer
 For final, it can be assigned different values at runtime when initialized. For example
 ```java
