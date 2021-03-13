@@ -13,6 +13,7 @@ Most Popular Java Interview Questions and Answers
 5. [**Is Java “pass-by-reference” or “pass-by-value”?**](https://github.com/CodeMechanix/Interview-Questions-and-Answers/blob/master/java/Is_Java_pass_by_reference_or_pass_by_value.md)
 6. [**What is Inversion of Control?**]()
 7. [**Cohesion and Decoupling, what do they represent?**]()
+8. [**Difference between DTO, VO, POJO, JavaBeans?**]()
 
 Most Popular Spring Boot Interview Questions and Answers
 1. [**What is the difference between Spring MVC and Spring Boot**](https://github.com/CodeMechanix/Interview-Questions-and-Answers/blob/master/springboot/java/Difference_between_Spring_MVC_and_Spring_Boot.md)
@@ -25,6 +26,8 @@ Most Popular Spring Boot Interview Questions and Answers
 Most Popular Database Interview Questions and Answers
 1. [**Difference between a query, native query, named query and typed query?**](https://github.com/CodeMechanix/Interview-Questions-and-Answers/blob/master/database/Difference_between_query_and_native%20query_and_named_query_and_typed_query.md)
 
+Most Common Knowledge Need to Know:
+1. [**What is the difference between web sockets, long polling, server-sent events and forever frame?**]()
 
 **Note: Collect those Question and Answer from StackOverflow.** 
 
